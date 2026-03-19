@@ -13,7 +13,7 @@ A meta-framework that allows defining UI components declaratively in YAML/JSON a
 - **GitHub Org:** [github.com/declare-ui](https://github.com/declare-ui)
 - **This repo (`core`):** Parser, AST, validators, and multi-target code generators
 - **Sibling repos:** `cli`, `mcp`, `tailwind-plugin`, `components`, `vscode`, `playground`, `docs`, `create-declareui`, `examples`
-- **npm scope:** `@declareui/core`
+- **npm scope:** `@declareuihq/core`
 - **Website:** [declare-ui.github.io](https://declare-ui.github.io)
 
 ## Architecture

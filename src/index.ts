@@ -1,5 +1,5 @@
 /**
- * @declareui/core — DeclareUI engine public API.
+ * @declareuihq/core — DeclareUI engine public API.
  *
  * Parse, validate, and generate UI components from YAML definitions.
  */

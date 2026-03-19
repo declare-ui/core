@@ -1,5 +1,5 @@
 {
-  "name": "@declareui/core",
+  "name": "@declareuihq/core",
   "version": "0.1.0-alpha.1",
   "type": "module",
   "description": "DeclareUI core engine — parser, validator, AST, and code generators",

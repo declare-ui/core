@@ -25,12 +25,17 @@
   },
   "keywords": [
     "declareui",
-    "ui",
-    "components",
-    "code-generation",
     "yaml",
+    "ui-components",
     "react",
-    "web-components"
+    "vue",
+    "svelte",
+    "angular",
+    "web-components",
+    "tailwindcss",
+    "declarative",
+    "compiler",
+    "code-generation"
   ],
   "license": "MIT",
   "repository": {
